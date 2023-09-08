@@ -5,15 +5,11 @@
 <a href="https://www.youtube.com"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
-![beejer-warrior github stats](https://github-readme-stats.vercel.app/api?username=beejer-warrior&show_icons=true&theme=tokyonight)
 ![beejer-warrior github stats](https://github-readme-stats.vercel.app/api?username=beejer-warrior&show_reviews=true&theme=merko)
-![beejer-warrior github stats](https://github-readme-stats.vercel.app/api?username=beejer-warrior&show_reviews=true&theme=gruvbox)
-![beejer-warrior github stats](https://github-readme-stats.vercel.app/api?username=beejer-warrior&show_reviews=true&theme=dracula)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=beejer-warrior&theme=tokyonight" alt="mystreak"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beejer-warrior&theme=dracula" alt="mystreak"/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejer-warrior&show_icons=true&theme=tokyonight&repo=machine-learning)](https://github.com/beejer-warrior/machine-learning)
 
-🌱 I’m currently learning all thinks in my repository
+🌱 I’m currently learning all thinks in my above 😄 repository
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -28,10 +24,7 @@
 ------
 
 Last Edited on: 21/08/2023
-<!--
-**AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
