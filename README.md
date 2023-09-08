@@ -1,4 +1,4 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">Hello There i'm Nabeel A P<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
 ### You can call me BEEJER WARRIOR
 
@@ -6,8 +6,12 @@
 
 ## By the way here are some of my statistics 🚀
 ![beejer-warrior github stats](https://github-readme-stats.vercel.app/api?username=beejer-warrior&show_icons=true&theme=tokyonight)
+![beejer-warrior github stats](https://github-readme-stats.vercel.app/api?username=beejer-warrior&show_reviews=true&theme=merko)
+![beejer-warrior github stats](https://github-readme-stats.vercel.app/api?username=beejer-warrior&show_reviews=true&theme=gruvbox)
+![beejer-warrior github stats](https://github-readme-stats.vercel.app/api?username=beejer-warrior&show_reviews=true&theme=dracula)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=beejer-warrior&theme=tokyonight" alt="mystreak"/>
-![beejer-warrior Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beejer-warrior&theme=tokyonight&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beejer-warrior&theme=dracula" alt="mystreak"/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 🌱 I’m currently learning all thinks in my repository
 
